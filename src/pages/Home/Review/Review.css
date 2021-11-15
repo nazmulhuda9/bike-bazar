@@ -1,0 +1,9 @@
+.review{
+   
+    border: 1px solid black; 
+    width: 200px;
+    height: 250px;
+    overflow: hidden;
+    background-color: rgba(223, 245, 182, 0.295);
+    border-radius: 10px;
+}
