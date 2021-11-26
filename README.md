@@ -1,21 +1,25 @@
 ## A bike selling Website...
 
-## Website Name 
-## Bike Bazar
+- Website Name 
+ ## Bike Bazar
 
-## Using Tools and Language and Library
-- HTML, css, javascript, React, Material Ui, Bootstrap. 
+## Using Tools, Language and Library
+- HTML, 
+css, 
+javascript,
+React, 
+Material Ui,
+Bootstrap. 
 
 
 ## what is working ?
-- Bike Selling
+- Bike Selling in online
 - Registration and Login with Firebase 
 - admin making 
 - adding product by admin 
 - product update by admin 
 - order status changing by admin 
-
-- review by user 
+- review added by user 
 - buy and purchase product by user 
 - show own order  
 

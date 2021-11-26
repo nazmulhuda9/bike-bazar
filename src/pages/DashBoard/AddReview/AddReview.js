@@ -34,7 +34,7 @@ const AddReview = () => {
         <>
 
             <div className="container mt-5 p-5">
-                <h2>Add YOur Review</h2>
+                <h2>Add Yur Review/Comment</h2>
                 <form onSubmit={handleSubmit(onSubmit)}>
                     <input defaultValue={name} type='text' {...register("name")} /> <br />
 
